@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: green;
+    font-size: 20px;
+
+}
+
+.logo{
+    display: flex; 
+    max-width: 100px;
+} 
+
+header{
+    display: flex; 
+    align-items: center; 
+   background-color: black; 
+   height: 50px;;
+   
+} 
+
+ul{
+    display: flex;
+    gap: 50px;
+    justify-content:center; 
+    list-style: none; 
+    align-items: center; 
+} 
+
+body{
+   
+    background-color: darkgreen;
+   
+    
+
+}
+
+nav{
+    width: 100vw; 
+    
+    
+}
+
+li:hover{
+    color: white;
+    font-size: 15px; 
+} 
+
+img :hover{
+    height: 50px;
+} 
+
